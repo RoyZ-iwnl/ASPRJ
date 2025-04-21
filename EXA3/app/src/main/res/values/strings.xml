@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">城市美食</string>
+    <string name="confirm">确定</string>
+    <string name="back">返回</string>
+    <string name="select_food">选择你喜欢城市的美食</string>
+    <string name="favorite_foods">我喜欢的美食：</string>
+    <string name="current_city">当前城市：</string>
+    <string name="please_select_city">请先选择城市</string>
+    <string name="city_selected">已选择城市: </string>
+</resources>
